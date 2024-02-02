@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "first_name": "Freeland",
+        "last_name": "Lugton",
+        "email": "flugton0@squidoo.com",
+        "gender": "Male",
+        "job_users": "Staff Scientist"
+    },
+    {
+        "id": 2,
+        "first_name": "Dena",
+        "last_name": "Exton",
+        "email": "dexton1@cnbc.com",
+        "gender": "Female",
+        "job_users": "Electrical Engineer"
+    },
+    {
+        "id": 3,
+        "first_name": "Ashbey",
+        "last_name": "Tainton",
+        "email": "atainton2@w3.org",
+        "gender": "Male",
+        "job_users": "Technical Writer"
+    },
+    {
+        "id": 4,
+        "first_name": "Ofelia",
+        "last_name": "Weetch",
+        "email": "oweetch3@house.gov",
+        "gender": "Female",
+        "job_users": "Health Coach IV"
+    },
+    {
+        "id": 5,
+        "first_name": "Becky",
+        "last_name": "Barriball",
+        "email": "bbarriball4@reference.com",
+        "gender": "Female",
+        "job_users": "Tax Accountant"
+    },
+    {
+        "id": 6,
+        "first_name": "Desmund",
+        "last_name": "Guidotti",
+        "email": "dguidotti5@mapquest.com",
+        "gender": "Male",
+        "job_users": "Mechanical Systems Engineer"
+    },
+    {
+        "id": 7,
+        "first_name": "Rene",
+        "last_name": "Rigolle",
+        "email": "rrigolle6@tmall.com",
+        "gender": "Female",
+        "job_users": "VP Marketing"
+    },
+    {
+        "id": 8,
+        "first_name": "Eirena",
+        "last_name": "Taplow",
+        "email": "etaplow7@netlog.com",
+        "gender": "Female",
+        "job_users": "VP Sales"
+    },
+    {
+        "id": 9,
+        "first_name": "Iormina",
+        "last_name": "Nation",
+        "email": "ination8@si.edu",
+        "gender": "Female",
+        "job_users": "Social Worker"
+    },
+    {
+        "id": 10,
+        "first_name": "Kip",
+        "last_name": "Radnage",
+        "email": "kradnage9@bbc.co.uk",
+        "gender": "Male",
+        "job_users": "Financial Advisor"
+    },
+    {
+        "id": 11,
+        "first_name": "Cassondra",
+        "last_name": "Grime",
+        "email": "cgrimea@ca.gov",
+        "gender": "Female",
+        "job_users": "Project Manager"
+    },
+    {
+        "id": 12,
+        "first_name": "Aldrich",
+        "last_name": "Guerro",
+        "email": "aguerrob@nydailynews.com",
+        "gender": "Male",
+        "job_users": "Accounting Assistant II"
+    },
+    {
+        "id": 13,
+        "first_name": "Shandee",
+        "last_name": "Yegorchenkov",
+        "email": "syegorchenkovc@japanpost.jp",
+        "gender": "Female",
+        "job_users": "Accounting Assistant III"
+    },
+    {
+        "id": 14,
+        "first_name": "Aldus",
+        "last_name": "Coltart",
+        "email": "acoltartd@squarespace.com",
+        "gender": "Male",
+        "job_users": "Engineer II"
+    },
+    {
+        "id": 15,
+        "first_name": "Caresse",
+        "last_name": "Reeves",
+        "email": "creevese@naver.com",
+        "gender": "Female",
+        "job_users": "Systems Administrator II"
+    },
+    {
+        "id": 16,
+        "first_name": "Corrine",
+        "last_name": "Abbatt",
+        "email": "cabbattf@hatena.ne.jp",
+        "gender": "Female",
+        "job_users": "Chief Design Engineer"
+    },
+    {
+        "id": 17,
+        "first_name": "Saundra",
+        "last_name": "Pedrocco",
+        "email": "spedroccog@bbb.org",
+        "gender": "Male",
+        "job_users": "Technical Writer"
+    },
+    {
+        "id": 18,
+        "first_name": "Brew",
+        "last_name": "Cheng",
+        "email": "bchengh@arizona.edu",
+        "gender": "Male",
+        "job_users": "Engineer IV"
+    },
+    {
+        "id": 19,
+        "first_name": "Erwin",
+        "last_name": "Barends",
+        "email": "ebarendsi@google.com.br",
+        "gender": "Male",
+        "job_users": "Recruiting Manager"
+    }
+]
